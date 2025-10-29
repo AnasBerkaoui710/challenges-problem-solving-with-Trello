@@ -1,6 +1,6 @@
 
 
-let array= [2, 4, 6, -3, 5, 7]
+let array= [2, 4, 6, -3, 5, 6, 7]
 let sum=0
 function somme(){
     
@@ -13,3 +13,4 @@ function somme(){
     return sum
 }
 console.log(somme());
+
