@@ -1,4 +1,4 @@
-let word = "level"
+let word = "tenet"
 let revword=""
 
 for(let i=word.length-1;i>=0;i--){
@@ -10,4 +10,5 @@ if(word == revword){
     console.log("false");
     
 }
+
 
