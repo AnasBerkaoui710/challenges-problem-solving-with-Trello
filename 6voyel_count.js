@@ -1,4 +1,4 @@
-let name = "anas ber "
+let name = "anas berk "
 let count=0
 
 for(let i=0;i<name.length;i++){
@@ -7,3 +7,4 @@ for(let i=0;i<name.length;i++){
     }
 }
 console.log(count);
+
