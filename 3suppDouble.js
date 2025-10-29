@@ -1,6 +1,6 @@
 const prompt= require("prompt-sync")()
 
-let array = [1, 2, 2, 3, 4, 4, 5]
+let array = [1, 2, 2, 3, 4, 4, 5, 6]
 
 
 for (let i = 0; i < array.length; i++) {
@@ -15,3 +15,4 @@ for (let i = 0; i < array.length; i++) {
 
 
 console.log(array);
+
