@@ -13,4 +13,5 @@ function frequenceCaracteres(chaine) {
 }
 
 // Exemple
-console.log(frequenceCaracteres("helllo"));
+
+console.log(frequenceCaracteres("hello"));
